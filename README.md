@@ -28,6 +28,6 @@ Once you are happy with your layout select the "Build DLL and Setup Package" to 
 
 [Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339)
 
-[Microsoft .Net 2.0]((https://www.microsoft.com/en-us/download/details.aspx?id=22339))
+[Microsoft .Net 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=22339)
 
 [Howto Article](https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows)
