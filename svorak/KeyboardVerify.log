@@ -1,0 +1,75 @@
+    WARNING: a (U+0061) is already defined more than once on the keyboard (on VK_A, ShiftState 'Ctrl' and VK_A, ShiftState 'Base').
+    WARNING: a (U+0061) is already defined more than once on the keyboard (on VK_A, ShiftState 'Shift+Ctrl' and VK_A, ShiftState 'Base').
+    WARNING: x (U+0078) is already defined more than once on the keyboard (on VK_B, ShiftState 'Ctrl' and VK_B, ShiftState 'Base').
+    WARNING: x (U+0078) is already defined more than once on the keyboard (on VK_B, ShiftState 'Shift+Ctrl' and VK_B, ShiftState 'Base').
+    WARNING: j (U+006a) is already defined more than once on the keyboard (on VK_C, ShiftState 'Ctrl' and VK_C, ShiftState 'Base').
+    WARNING: j (U+006a) is already defined more than once on the keyboard (on VK_C, ShiftState 'Shift+Ctrl' and VK_C, ShiftState 'Base').
+    WARNING: e (U+0065) is already defined more than once on the keyboard (on VK_D, ShiftState 'Ctrl' and VK_D, ShiftState 'Base').
+    WARNING: e (U+0065) is already defined more than once on the keyboard (on VK_D, ShiftState 'Shift+Ctrl' and VK_D, ShiftState 'Base').
+    WARNING: € (U+20ac) is already defined more than once on the keyboard (on VK_D, ShiftState 'Ctl+Alt' and VK_5, ShiftState 'Ctl+Alt').
+    WARNING: } (U+007d) is already defined more than once on the keyboard (on VK_E, ShiftState 'Ctl+Alt' and VK_0, ShiftState 'Ctl+Alt').
+    WARNING: u (U+0075) is already defined more than once on the keyboard (on VK_F, ShiftState 'Ctrl' and VK_F, ShiftState 'Base').
+    WARNING: u (U+0075) is already defined more than once on the keyboard (on VK_F, ShiftState 'Shift+Ctrl' and VK_F, ShiftState 'Base').
+    WARNING: The character ↓ (U+2193) exists in the entry for VK_F, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Swedish (Sweden) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: i (U+0069) is already defined more than once on the keyboard (on VK_G, ShiftState 'Ctrl' and VK_G, ShiftState 'Base').
+    WARNING: i (U+0069) is already defined more than once on the keyboard (on VK_G, ShiftState 'Shift+Ctrl' and VK_G, ShiftState 'Base').
+    WARNING: The character → (U+2192) exists in the entry for VK_G, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Swedish (Sweden) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: d (U+0064) is already defined more than once on the keyboard (on VK_H, ShiftState 'Ctrl' and VK_H, ShiftState 'Base').
+    WARNING: d (U+0064) is already defined more than once on the keyboard (on VK_H, ShiftState 'Shift+Ctrl' and VK_H, ShiftState 'Base').
+    WARNING: c (U+0063) is already defined more than once on the keyboard (on VK_I, ShiftState 'Ctrl' and VK_I, ShiftState 'Base').
+    WARNING: c (U+0063) is already defined more than once on the keyboard (on VK_I, ShiftState 'Shift+Ctrl' and VK_I, ShiftState 'Base').
+    WARNING: © (U+00a9) is already defined more than once on the keyboard (on VK_I, ShiftState 'Ctl+Alt' and VK_C, ShiftState 'Ctl+Alt').
+    WARNING: h (U+0068) is already defined more than once on the keyboard (on VK_J, ShiftState 'Ctrl' and VK_J, ShiftState 'Base').
+    WARNING: h (U+0068) is already defined more than once on the keyboard (on VK_J, ShiftState 'Shift+Ctrl' and VK_J, ShiftState 'Base').
+    WARNING: The character ħ (U+0127) exists in the entry for VK_J, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Swedish (Sweden) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: t (U+0074) is already defined more than once on the keyboard (on VK_K, ShiftState 'Ctrl' and VK_K, ShiftState 'Base').
+    WARNING: t (U+0074) is already defined more than once on the keyboard (on VK_K, ShiftState 'Shift+Ctrl' and VK_K, ShiftState 'Base').
+    WARNING: The character ŧ (U+0167) exists in the entry for VK_K, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Swedish (Sweden) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: n (U+006e) is already defined more than once on the keyboard (on VK_L, ShiftState 'Ctrl' and VK_L, ShiftState 'Base').
+    WARNING: n (U+006e) is already defined more than once on the keyboard (on VK_L, ShiftState 'Shift+Ctrl' and VK_L, ShiftState 'Base').
+    WARNING: The character ł (U+0142) exists in the entry for VK_L, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Swedish (Sweden) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: m (U+006d) is already defined more than once on the keyboard (on VK_M, ShiftState 'Ctrl' and VK_M, ShiftState 'Base').
+    WARNING: m (U+006d) is already defined more than once on the keyboard (on VK_M, ShiftState 'Shift+Ctrl' and VK_M, ShiftState 'Base').
+    WARNING: b (U+0062) is already defined more than once on the keyboard (on VK_N, ShiftState 'Ctrl' and VK_N, ShiftState 'Base').
+    WARNING: b (U+0062) is already defined more than once on the keyboard (on VK_N, ShiftState 'Shift+Ctrl' and VK_N, ShiftState 'Base').
+    WARNING: r (U+0072) is already defined more than once on the keyboard (on VK_O, ShiftState 'Ctrl' and VK_O, ShiftState 'Base').
+    WARNING: r (U+0072) is already defined more than once on the keyboard (on VK_O, ShiftState 'Shift+Ctrl' and VK_O, ShiftState 'Base').
+    WARNING: l (U+006c) is already defined more than once on the keyboard (on VK_P, ShiftState 'Ctrl' and VK_P, ShiftState 'Base').
+    WARNING: l (U+006c) is already defined more than once on the keyboard (on VK_P, ShiftState 'Shift+Ctrl' and VK_P, ShiftState 'Base').
+    WARNING: ł (U+0142) is already defined more than once on the keyboard (on VK_P, ShiftState 'Ctl+Alt' and VK_L, ShiftState 'Ctl+Alt').
+    WARNING: p (U+0070) is already defined more than once on the keyboard (on VK_R, ShiftState 'Ctrl' and VK_R, ShiftState 'Base').
+    WARNING: p (U+0070) is already defined more than once on the keyboard (on VK_R, ShiftState 'Shift+Ctrl' and VK_R, ShiftState 'Base').
+    WARNING: o (U+006f) is already defined more than once on the keyboard (on VK_S, ShiftState 'Ctrl' and VK_S, ShiftState 'Base').
+    WARNING: o (U+006f) is already defined more than once on the keyboard (on VK_S, ShiftState 'Shift+Ctrl' and VK_S, ShiftState 'Base').
+    WARNING: y (U+0079) is already defined more than once on the keyboard (on VK_T, ShiftState 'Ctrl' and VK_T, ShiftState 'Base').
+    WARNING: y (U+0079) is already defined more than once on the keyboard (on VK_T, ShiftState 'Shift+Ctrl' and VK_T, ShiftState 'Base').
+    WARNING: The character ← (U+2190) exists in the entry for VK_T, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Swedish (Sweden) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: g (U+0067) is already defined more than once on the keyboard (on VK_U, ShiftState 'Ctrl' and VK_U, ShiftState 'Base').
+    WARNING: g (U+0067) is already defined more than once on the keyboard (on VK_U, ShiftState 'Shift+Ctrl' and VK_U, ShiftState 'Base').
+    WARNING: The character ŋ (U+014b) exists in the entry for VK_U, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Swedish (Sweden) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: k (U+006b) is already defined more than once on the keyboard (on VK_V, ShiftState 'Ctrl' and VK_V, ShiftState 'Base').
+    WARNING: k (U+006b) is already defined more than once on the keyboard (on VK_V, ShiftState 'Shift+Ctrl' and VK_V, ShiftState 'Base').
+    WARNING: The character ĸ (U+0138) exists in the entry for VK_V, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Swedish (Sweden) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: { (U+007b) is already defined more than once on the keyboard (on VK_W, ShiftState 'Ctl+Alt' and VK_7, ShiftState 'Ctl+Alt').
+    WARNING: q (U+0071) is already defined more than once on the keyboard (on VK_X, ShiftState 'Ctrl' and VK_X, ShiftState 'Base').
+    WARNING: q (U+0071) is already defined more than once on the keyboard (on VK_X, ShiftState 'Shift+Ctrl' and VK_X, ShiftState 'Base').
+    WARNING: @ (U+0040) is already defined more than once on the keyboard (on VK_X, ShiftState 'Ctl+Alt' and VK_2, ShiftState 'Ctl+Alt').
+    WARNING: f (U+0066) is already defined more than once on the keyboard (on VK_Y, ShiftState 'Ctrl' and VK_Y, ShiftState 'Base').
+    WARNING: f (U+0066) is already defined more than once on the keyboard (on VK_Y, ShiftState 'Shift+Ctrl' and VK_Y, ShiftState 'Base').
+    WARNING: The character đ (U+0111) exists in the entry for VK_Y, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1252) of the Swedish (Sweden) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: s (U+0073) is already defined more than once on the keyboard (on VK_OEM_1, ShiftState 'Ctrl' and VK_OEM_1, ShiftState 'Base').
+    WARNING: s (U+0073) is already defined more than once on the keyboard (on VK_OEM_1, ShiftState 'Shift+Ctrl' and VK_OEM_1, ShiftState 'Base').
+    WARNING: w (U+0077) is already defined more than once on the keyboard (on VK_OEM_COMMA, ShiftState 'Ctrl' and VK_OEM_COMMA, ShiftState 'Base').
+    WARNING: w (U+0077) is already defined more than once on the keyboard (on VK_OEM_COMMA, ShiftState 'Shift+Ctrl' and VK_OEM_COMMA, ShiftState 'Base').
+    WARNING: ł (U+0142) is already defined more than once on the keyboard (on VK_OEM_COMMA, ShiftState 'Ctl+Alt' and VK_L, ShiftState 'Ctl+Alt').
+    WARNING: \ (U+005c) is already defined more than once on the keyboard (on VK_OEM_MINUS, ShiftState 'Ctl+Alt' and VK_Q, ShiftState 'Ctl+Alt').
+    WARNING: v (U+0076) is already defined more than once on the keyboard (on VK_OEM_PERIOD, ShiftState 'Ctrl' and VK_OEM_PERIOD, ShiftState 'Base').
+    WARNING: v (U+0076) is already defined more than once on the keyboard (on VK_OEM_PERIOD, ShiftState 'Shift+Ctrl' and VK_OEM_PERIOD, ShiftState 'Base').
+    WARNING: z (U+007a) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'Ctrl' and VK_OEM_2, ShiftState 'Base').
+    WARNING: z (U+007a) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'Shift+Ctrl' and VK_OEM_2, ShiftState 'Base').
+    WARNING: ^ (U+005e) is already defined more than once on the keyboard (on VK_OEM_6, ShiftState 'Shift' and VK_6, ShiftState 'Shift').
+    WARNING:  (U+001c) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Ctrl' and VK_OEM_5, ShiftState 'Ctrl').
+    WARNING: ´ (U+00b4) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Ctl+Alt' and VK_OEM_PLUS, ShiftState 'Base').
+    WARNING: '<' defined on OEM_5 (Base) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '>' defined on OEM_5 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '|' defined on OEM_5 (Ctl+Alt) but not defined elsewhere. This key may not be present on all keyboards.
