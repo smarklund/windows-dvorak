@@ -15,7 +15,7 @@ If you are uncomfortable running an executable from github then download the key
 ## Currently Created Keyboard Layouts
 
 * Dvorak with UK Punctuation
-* Swedish Dvorak (coming)
+* Swedish Dvorak
 
 ## Create a Keyboard Layout
 
